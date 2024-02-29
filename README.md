@@ -18,6 +18,7 @@ Whether you're a potential employer, collaborator, or just curious, feel free to
 | Project Link | Area | Project Description | 
 |---|---|---|  
 | [Covid-19 Data Exploration 🦠](https://github.com/arza1uz/Covid-19-Data-Exploration)| Data cleaning, data analysis | This project focuses on analyzing and visualizing data related to the COVID-19 pandemic, aiming to provide a comprehensive overview of the virus's global impact. 
+| [Nashville Housing Data Cleaning🏡](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning)| Data cleaning | This project shows how important is data cleaning so you can have a starting point for visualizations.
 
 ***
 

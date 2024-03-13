@@ -42,7 +42,7 @@ Whether you're a potential employer, collaborator, or just curious, feel free to
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-
+|[Data Professional Survey](https://github.com/arza1uz/Data-Professional-Survey)|This project allows us to observe the differences in salary, happiness and work/balance satisfaction between the IT community of different countries.|[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGMzYjFmN2QtMDM5Yy00NTFkLTkwYmQtZmI2MDU0MzI3NzMxIiwidCI6IjVmMjgyOTEwLTE3NmYtNDU5ZC1hYjdkLWI3NDRhYTZlZmMwNyIsImMiOjR9)| 
 ***
 
 

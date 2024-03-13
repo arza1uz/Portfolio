@@ -7,7 +7,7 @@ Whether you're a potential employer, collaborator, or just curious, feel free to
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Power BI](#PowerBI)
+- [Power BI](#Power-BI)
 - [Machine Learning](#Machine-Learning)
 
 

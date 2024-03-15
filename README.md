@@ -5,7 +5,7 @@ Whether you're a potential employer, collaborator, or just curious, feel free to
 
 ## 📑 Table of Contents
 - [SQL](#sql)
-- [Python](#python)
+<!--- [Python](#python)-->
 - [Tableau](#tableau)
 - [Power BI](#Power-BI)
 - [Machine Learning](#Machine-Learning)
@@ -22,12 +22,12 @@ Whether you're a potential employer, collaborator, or just curious, feel free to
 
 ***
 
-# Python
+<!--# Python
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 
-***
+***-->
 
 # Tableau
 

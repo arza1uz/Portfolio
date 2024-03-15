@@ -43,7 +43,9 @@ Whether you're a potential employer, collaborator, or just curious, feel free to
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 |[Data Professional Survey](https://github.com/arza1uz/Data-Professional-Survey)|This project allows us to observe the differences in salary, happiness and work/balance satisfaction between the IT community of different countries.|[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGMzYjFmN2QtMDM5Yy00NTFkLTkwYmQtZmI2MDU0MzI3NzMxIiwidCI6IjVmMjgyOTEwLTE3NmYtNDU5ZC1hYjdkLWI3NDRhYTZlZmMwNyIsImMiOjR9)| 
+|[HR Analytics](https://github.com/arza1uz/HR-analytics)| This project aims to utilize Power BI to collect, analyze, and visualize HR data, enabling data-driven decision-making to enhance talent management and overall business performance.|[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2MwNDZiZDktOWI4Mi00YjMzLWFlNTEtZGIwMzMxMjgwYTEyIiwidCI6IjVmMjgyOTEwLTE3NmYtNDU5ZC1hYjdkLWI3NDRhYTZlZmMwNyIsImMiOjR9)|
 ***
+
 
 
 # Machine Learning

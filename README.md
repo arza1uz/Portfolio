@@ -1,55 +1,67 @@
 # 📚 Portfolio
-Welcome to my portfolio! <br>
-This space showcases my skills, projects, and experiences. <br>
-Whether you're a potential employer, collaborator, or just curious, feel free to explore and learn more about what I bring to the table.
+
+Welcome to my project portfolio.  
+This space presents a curated collection of work focused on **data analytics, data engineering, and applied data science**, showcasing both technical execution and business-oriented thinking.
+
+Projects are organized by domain and technology, with each repository documenting the **problem, approach, tools, and impact**.
+
+---
 
 ## 📑 Table of Contents
-- [SQL](#sql)
-<!--- [Python](#python)-->
-- [Tableau](#tableau)
-- [Power BI](#Power-BI)
-- [Machine Learning](#Machine-Learning)
+- [SQL & Data Analysis](#sql--data-analysis)
+- [Tableau & Data Visualization](#tableau--data-visualization)
+- [Data Engineering & Pipelines](#data-engineering--pipelines)
+- [Machine Learning & Data Science](#machine-learning--data-science)
 
+---
 
-***
+## SQL & Data Analysis
 
-# SQL
+Projects in this section focus on **data exploration, cleaning, transformation, and analytical reasoning**, using SQL as the primary tool.
 
-| Project Link | Area | Project Description | 
-|---|---|---|  
-| [Covid-19 Data Exploration 🦠](https://github.com/arza1uz/Covid-19-Data-Exploration)| Data cleaning, data analysis | This project focuses on analyzing and visualizing data related to the COVID-19 pandemic, aiming to provide a comprehensive overview of the virus's global impact. 
-| [Nashville Housing Data Cleaning🏡](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning)| Data cleaning | This project shows how important is data cleaning so you can have a starting point for visualizations.
-
-***
-
-<!--# Python
-
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-
-***-->
-
-# Tableau
-
-| Project Link | Project Description | Dashboard Link |
+| Project Link | Focus Area | Description |
 |---|---|---|
-| 🦠[Covid-19 Data Exploration](https://github.com/arza1uz/Covid-19-Data-Exploration)| This project focuses on analyzing and visualizing data related to the COVID-19 pandemic, aiming to provide a comprehensive overview of the virus's global impact. | [Dashboard](https://public.tableau.com/app/profile/jos.antonio.guerrero.arzaluz/viz/Covid-19Dashboard_17065988084280/Dashboard1?publish=yes) |
+| [Covid-19 Data Exploration 🦠](https://github.com/arza1uz/Covid-19-Data-Exploration) | Data exploration, analysis | Analysis of global COVID-19 data to uncover trends, patterns, and insights related to the pandemic’s impact. |
+| [Nashville Housing Data Cleaning 🏡](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning) | Data cleaning | End-to-end data cleaning project demonstrating best practices to prepare raw data for analytics and visualization. |
 
+---
 
-***
+## Tableau & Data Visualization
 
-# Power BI
+This section highlights projects focused on **data storytelling, dashboard design, and insight communication** using Tableau.
 
-| Project Link | Project Description | Dashboard Link |
+| Project Link | Description | Dashboard |
 |---|---|---|
-|[Data Professional Survey](https://github.com/arza1uz/Data-Professional-Survey)|This project allows us to observe the differences in salary, happiness and work/balance satisfaction between the IT community of different countries.|[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGMzYjFmN2QtMDM5Yy00NTFkLTkwYmQtZmI2MDU0MzI3NzMxIiwidCI6IjVmMjgyOTEwLTE3NmYtNDU5ZC1hYjdkLWI3NDRhYTZlZmMwNyIsImMiOjR9)| 
-|[HR Analytics](https://github.com/arza1uz/HR-analytics)| This project aims to utilize Power BI to collect, analyze, and visualize HR data, enabling data-driven decision-making to enhance talent management and overall business performance.|[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2MwNDZiZDktOWI4Mi00YjMzLWFlNTEtZGIwMzMxMjgwYTEyIiwidCI6IjVmMjgyOTEwLTE3NmYtNDU5ZC1hYjdkLWI3NDRhYTZlZmMwNyIsImMiOjR9)|
-|[Sales Analysis](https://github.com/arza1uz/Sales-Analysis/blob/main/README.md)| This project entails leveraging Power BI to conduct comprehensive sales data analysis, facilitating informed decision-making and strategic planning to drive revenue growth and optimize sales performance.|[Dashboard](https://app.powerbi.com/groups/me/reports/ed0c0cde-5c1e-4133-93a2-6e2808db895f/ReportSection4bfa40113814f126add5?experience=power-bi).|
-***
+| [Covid-19 Data Exploration 🦠](https://github.com/arza1uz/Covid-19-Data-Exploration) | Visualization of key COVID-19 metrics to communicate trends and global impact effectively. | [View Dashboard](https://public.tableau.com/app/profile/jos.antonio.guerrero.arzaluz/viz/Covid-19Dashboard_17065988084280/Dashboard1?publish=yes) |
 
+---
 
+## Data Engineering & Pipelines
 
-# Machine Learning
-*Work in progress*
+This section will showcase projects related to **data pipelines, orchestration, automation, and cloud-based architectures**, aligned with modern analytics and fintech use cases.
 
-***
+Planned topics include:
+- Data ingestion and transformation pipelines  
+- Orchestration and workflow management  
+- Cloud-native analytics architectures  
+- Automated reconciliations and operational KPIs  
+
+*(Projects will be added as they are developed.)*
+
+---
+
+## Machine Learning & Data Science
+
+This section will include projects developed alongside my preparation for **Data Science and the Microsoft DP-100 certification**.
+
+Planned topics include:
+- Exploratory data analysis for modeling  
+- Feature engineering and model training  
+- Regression and classification use cases  
+- Model evaluation and interpretation  
+
+Projects will be added progressively, each documented as a **self-contained case study**.
+
+---
+
+📌 For a high-level overview of my profile, skills, and certifications, please refer to the main repository README.

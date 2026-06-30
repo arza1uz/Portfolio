@@ -1,67 +1,67 @@
-# 📚 Portfolio
+# Antonio Guerrero Portfolio
 
-Welcome to my project portfolio.  
-This space presents a curated collection of work focused on **data analytics, data engineering, and applied data science**, showcasing both technical execution and business-oriented thinking.
+This portfolio organizes my work across analytics foundations, data engineering, data platforms, and the learning path toward ML and AI engineering.
 
-Projects are organized by domain and technology, with each repository documenting the **problem, approach, tools, and impact**.
+The current portfolio direction is centered on the **Lexian Engineering Portfolio**, a fictional fintech engineering ecosystem that uses synthetic data only. Lexian is designed to demonstrate production-minded systems thinking without claiming that planned repositories are complete.
 
----
+## How To Review This Portfolio
 
-## 📑 Table of Contents
-- [SQL & Data Analysis](#sql--data-analysis)
-- [Tableau & Data Visualization](#tableau--data-visualization)
-- [Data Engineering & Pipelines](#data-engineering--pipelines)
-- [Machine Learning & Data Science](#machine-learning--data-science)
+1. Start with **Lexian Transaction Engine** to see the active engineering work.
+2. Review this Portfolio Hub to understand the broader roadmap.
+3. Visit the analytics foundation projects for SQL, cleaning, and visualization examples.
+4. Treat Planned projects as the learning and build path, not completed claims.
 
----
+## Featured Engineering Portfolio
 
-## SQL & Data Analysis
+| Project | Status | Focus | Skills Demonstrated | Link |
+| --- | --- | --- | --- | --- |
+| Lexian Transaction Engine | Active | Batch transaction processing and observability | Python, testing, logging, architecture | [Repository](https://github.com/arza1uz/lexian-transaction-engine) |
+| Lexian Reconciliation Engine | Planned | Payment reconciliation and matching | pandas, SQL, matching logic, data quality | Planned |
+| Lexian Risk Engine | Planned | Responsible credit risk foundations | feature engineering, scoring, model evaluation | Planned |
+| Lexian Fraud Engine | Planned | Fraud detection and user protection | anomaly detection, streaming, rules, ML | Planned |
+| Lexian Data Platform | Planned | Warehouse and analytics platform | Postgres, dbt, orchestration, BigQuery | Planned |
+| Lexian ML Platform | Planned | ML pipelines and model lifecycle | MLflow, feature store, model registry | Planned |
+| Lexian AI Platform | Planned | RAG, agents, evaluation, AI systems | LLMs, vector DBs, RAG, evaluation | Planned |
 
-Projects in this section focus on **data exploration, cleaning, transformation, and analytical reasoning**, using SQL as the primary tool.
+## Data Analytics Foundations
 
-| Project Link | Focus Area | Description |
-|---|---|---|
-| [Covid-19 Data Exploration 🦠](https://github.com/arza1uz/Covid-19-Data-Exploration) | Data exploration, analysis | Analysis of global COVID-19 data to uncover trends, patterns, and insights related to the pandemic’s impact. |
-| [Nashville Housing Data Cleaning 🏡](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning) | Data cleaning | End-to-end data cleaning project demonstrating best practices to prepare raw data for analytics and visualization. |
+These projects represent the foundation layer of the portfolio: SQL exploration, data cleaning, visualization, and business analysis.
 
----
+| Project | Status | Focus | Skills Demonstrated | Link |
+| --- | --- | --- | --- | --- |
+| Covid-19 Data Exploration | Foundation | Global COVID-19 analysis | SQL exploration, joins, aggregations, trend analysis | [Repository](https://github.com/arza1uz/Covid-19-Data-Exploration) |
+| Nashville Housing Data Cleaning | Foundation | Preparing raw housing data for analysis | SQL cleaning, standardization, deduplication | [Repository](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning) |
 
-## Tableau & Data Visualization
+## Visualization & BI
 
-This section highlights projects focused on **data storytelling, dashboard design, and insight communication** using Tableau.
+| Project | Status | Focus | Link |
+| --- | --- | --- | --- |
+| Covid-19 Tableau Dashboard | Foundation | Communicating COVID-19 trends visually | [Dashboard](https://public.tableau.com/app/profile/jos.antonio.guerrero.arzaluz/viz/Covid-19Dashboard_17065988084280/Dashboard1?publish=yes) |
 
-| Project Link | Description | Dashboard |
-|---|---|---|
-| [Covid-19 Data Exploration 🦠](https://github.com/arza1uz/Covid-19-Data-Exploration) | Visualization of key COVID-19 metrics to communicate trends and global impact effectively. | [View Dashboard](https://public.tableau.com/app/profile/jos.antonio.guerrero.arzaluz/viz/Covid-19Dashboard_17065988084280/Dashboard1?publish=yes) |
+## Machine Learning & AI Learning Path
 
----
+This section is intentionally a roadmap. Projects will be added only as they are built and documented.
 
-## Data Engineering & Pipelines
+| Area | Status | Planned Focus |
+| --- | --- | --- |
+| ML Engineering | Planned | feature engineering, experiment tracking, model evaluation, model registry |
+| AI Engineering | Planned | RAG, LLM applications, agents, evaluation, responsible AI patterns |
+| Data Platform | Planned | warehouses, dbt, orchestration, cloud deployment, data contracts |
 
-This section will showcase projects related to **data pipelines, orchestration, automation, and cloud-based architectures**, aligned with modern analytics and fintech use cases.
 
-Planned topics include:
-- Data ingestion and transformation pipelines  
-- Orchestration and workflow management  
-- Cloud-native analytics architectures  
-- Automated reconciliations and operational KPIs  
+## Project Status Labels
 
-*(Projects will be added as they are developed.)*
+| Label | Meaning |
+| --- | --- |
+| Active | Currently being built or maintained |
+| In Progress | Partially implemented work under active development |
+| Planned | Roadmap item not yet implemented |
+| Foundation | Earlier project that demonstrates core analytics skills |
+| Historical | Older work preserved for context |
 
----
+## Connect
 
-## Machine Learning & Data Science
-
-This section will include projects developed alongside my preparation for **Data Science and the Microsoft DP-100 certification**.
-
-Planned topics include:
-- Exploratory data analysis for modeling  
-- Feature engineering and model training  
-- Regression and classification use cases  
-- Model evaluation and interpretation  
-
-Projects will be added progressively, each documented as a **self-contained case study**.
-
----
-
-📌 For a high-level overview of my profile, skills, and certifications, please refer to the main repository README.
+- [GitHub Profile](https://github.com/arza1uz)
+- [Lexian Transaction Engine](https://github.com/arza1uz/lexian-transaction-engine)
+- [LinkedIn](https://www.linkedin.com/in/ja-guerrero-arzaluz)
+- [Email](mailto:antonioguerreroarzaluz@gmail.com)

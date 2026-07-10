@@ -2,22 +2,24 @@
 
 Lexian is a fictional fintech engineering ecosystem used to organize a long-term public portfolio. It uses synthetic data only and does not represent a real company, customer base, or production system.
 
-## Current
+## Current And Near-Term
 
 | Product | Status | Purpose |
 | --- | --- | --- |
-| Lexian Transaction Engine | Active | Process synthetic transactions, validate input data, generate balance reports, and add operational readiness foundations |
+| Lexian Transaction Engine | Active / V1 | Process synthetic transactions, validate input data, calculate balances, generate reports, and document the first public product baseline |
+| Lexian Operational Observability | In Progress / V2 | Track pipeline executions, structured logs, lifecycle events, and operational context |
 
-## Planned
+## Planned Portfolio Milestones
 
-| Product | Status | Purpose |
+| Product / Capability | Status | Purpose |
 | --- | --- | --- |
+| SQL + Warehouse Foundations | Planned | Add local analytical storage, fact/dim modeling, and advanced SQL practice |
 | Lexian Reconciliation Engine | Planned | Compare internal transactions against external payment or settlement records |
-| Lexian Risk Engine | Planned | Explore responsible credit risk foundations and model evaluation |
-| Lexian Fraud Engine | Planned | Build rules, anomaly detection, and user-protection patterns |
+| Lexian Graph Auditability | Planned | Model reconciliation lineage and investigation trails with Neo4j/Cypher |
 | Lexian Data Platform | Planned | Create warehouse, transformation, orchestration, and data quality foundations |
-| Lexian ML Platform | Planned | Build repeatable model training, tracking, registry, and serving workflows |
-| Lexian AI Platform | Planned | Explore RAG, agents, AI evaluation, and responsible AI workflows |
+| Lexian Cloud Data Platform | Planned | Prototype AWS-oriented data workflows with S3, Glue, Athena, Lambda, and Redshift |
+| Lexian ML / Risk Platform | Planned | Build feature pipelines, evaluation workflows, and risk/fraud foundations |
+| Lexian AI Investigation Assistant | Planned | Explore RAG, AI evaluation, and operations-focused assistant workflows |
 
 ## Repository Boundary
 

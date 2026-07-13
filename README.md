@@ -10,13 +10,6 @@ The main engineering portfolio is **Lexian**, a fictional fintech data ecosystem
 
 The portfolio is currently focused on building Lexian as a modular fintech data system. Released work covers transaction processing, operational observability, local warehouse foundations, and SQL analytics. Current work is focused on analytics engineering, validation layers, reconciliation controls, break management, audit outputs, and graph-based traceability.
 
-## Released Lexian Milestones
-
-| Release | Scope |
-| --- | --- |
-| v1.0.0 | Portfolio V1, batch transaction processing, operational observability |
-| v1.1.0 | Local analytical warehouse foundation with DuckDB |
-| v1.2.0 | Warehouse analytics queries for balances, pipeline health, data quality, and validation |
 
 ## Featured Engineering Portfolio
 
@@ -45,17 +38,6 @@ The portfolio is currently focused on building Lexian as a modular fintech data 
 | Nashville Housing Data Cleaning | SQL cleaning and preparation for analytics | [Repository](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning) |
 | Covid-19 Tableau Dashboard | BI visualization and analytical storytelling | [Dashboard](https://public.tableau.com/app/profile/jos.antonio.guerrero.arzaluz/viz/Covid-19Dashboard_17065988084280/Dashboard1?publish=yes) |
 
-## Portfolio Principles
-
-- Organize work around business problems, not tool checklists.
-- Keep Lexian modular instead of turning it into a giant monorepo.
-- Mark planned work clearly and avoid claiming unfinished systems as complete.
-- Use synthetic data only.
-
-## Supporting Docs
-
-- [Portfolio Strategy](docs/portfolio-strategy.md)
-- [Lexian Roadmap](docs/lexian-roadmap.md)
 
 ## Connect
 

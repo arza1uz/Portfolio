@@ -1,6 +1,6 @@
-# Lexian Module Roadmap
+# Lexian Module Overview
 
-Lexian is a fictional fintech engineering ecosystem used to organize a long-term public portfolio. It uses synthetic data only and does not represent a real company, customer base, or production system.
+Lexian is a fictional fintech engineering ecosystem used to organize a public portfolio around production-minded data systems. It uses synthetic data only and does not represent a real company, customer base, or production system.
 
 ## Released
 

@@ -10,18 +10,36 @@ The main engineering portfolio is **Lexian**, a fictional fintech data ecosystem
 
 The portfolio is currently focused on building Lexian as a modular fintech data system. Released work covers transaction processing, operational observability, local warehouse foundations, and SQL analytics. Current work is focused on analytics engineering, validation layers, reconciliation controls, break management, audit outputs, and graph-based traceability.
 
-
 ## Featured Engineering Portfolio
 
-| Module | Status | Focus | Key Skills | Link |
-| --- | --- | --- | --- | --- |
-| Lexian Transaction Engine | Released / v1.2.0 | Synthetic fintech transaction processing, observability, local warehouse, SQL analytics | Python, pandas, pytest, DuckDB, SQL, CI | [Repository](https://github.com/arza1uz/lexian-transaction-engine) |
-| Analytics Engineering Layer | In Progress | Analytical marts, metric definitions, reusable business models, validation layer | SQL, DuckDB, marts, semantic modeling, data quality | TBD |
-| Reconciliation & Break Management | Next | Matching logic, reconciliation status, breaks, audit outputs | Python, SQL, financial reconciliation, controls | TBD |
-| Graph Auditability | Starting / Planned | Reconciliation lineage and investigation graph | Neo4j, Cypher, graph modeling, traceability | TBD |
-| Cloud Data Platform | Planned | Cloud-native ingestion, storage, transformation, and warehouse deployment | AWS, S3, Glue, Athena, Redshift | TBD |
-| ML / Risk Platform | TBD | Risk features, fraud signals, model evaluation | Feature engineering, MLflow, model metrics | TBD |
-| AI Investigation Assistant | TBD | AI-assisted reconciliation investigation and operational search | LLMs, RAG, vector search, evaluation | TBD |
+### Lexian Fintech Data System
+
+Lexian is a synthetic fintech data system designed to model how transaction processing, operational observability, analytical warehousing, reconciliation controls, and auditability evolve into a broader data platform.
+
+- **Transaction Engine:** released; synthetic transaction ingestion, validation, balance calculation, tests, CI.
+- **Operational Observability:** released; execution tracking, structured logging, lifecycle visibility.
+- **Local Analytical Warehouse:** released; DuckDB schema, raw/fact tables, execution metadata, SQL queryability.
+- **Warehouse Analytics:** released; balance validation, pipeline health, transaction summaries, anomaly checks.
+- **Analytics Engineering Layer:** active; marts, metric definitions, reusable business models, validation layer.
+- **Reconciliation & Break Management:** next; matching logic, reconciliation statuses, breaks, audit outputs.
+- **Graph Auditability:** starting; Neo4j/Cypher model for lineage and investigation.
+
+[Review Lexian Transaction Engine](https://github.com/arza1uz/lexian-transaction-engine)
+
+### Cloud Data Platform
+
+**Status:** Planned  
+**Focus:** cloud-native ingestion, storage, transformation, and warehouse deployment using AWS-oriented patterns.
+
+### ML / Risk Platform
+
+**Status:** TBD  
+**Focus:** risk features, fraud signals, model evaluation, feature pipelines.
+
+### AI Investigation Assistant
+
+**Status:** TBD  
+**Focus:** AI-assisted reconciliation investigation, operational search, RAG, vector search, evaluation.
 
 ## Next Build Focus
 
@@ -37,7 +55,6 @@ The portfolio is currently focused on building Lexian as a modular fintech data 
 | Covid-19 Data Exploration | SQL exploration and Tableau visualization | [Repository](https://github.com/arza1uz/Covid-19-Data-Exploration) |
 | Nashville Housing Data Cleaning | SQL cleaning and preparation for analytics | [Repository](https://github.com/arza1uz/Nashville-Housing-Data-Cleaning) |
 | Covid-19 Tableau Dashboard | BI visualization and analytical storytelling | [Dashboard](https://public.tableau.com/app/profile/jos.antonio.guerrero.arzaluz/viz/Covid-19Dashboard_17065988084280/Dashboard1?publish=yes) |
-
 
 ## Connect
 

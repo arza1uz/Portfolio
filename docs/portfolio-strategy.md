@@ -21,7 +21,7 @@ The portfolio starts with practical analytics work: SQL exploration, data cleani
 A recruiter or data lead should be able to understand the portfolio quickly:
 
 1. Profile README explains the professional positioning.
-2. Portfolio Hub organizes the projects and 12-month roadmap.
+2. Portfolio Hub organizes released milestones, active modules, and next build focus.
 3. Lexian Transaction Engine demonstrates active engineering practice.
 4. Foundation projects show SQL, BI, cleaning, and analytical reasoning.
 5. Planned projects show direction without overstating completion.

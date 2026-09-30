@@ -1,27 +1,35 @@
 # Portfolio Strategy
 
-This portfolio is designed to show a deliberate progression from analytics foundations into data engineering, analytics engineering, fintech data systems, graph auditability, cloud data platforms, and ML/AI-enabled operational systems.
+## Positioning
+
+This portfolio should be short, practical, and useful for recruiters or data leads who want to understand impact quickly.
+
+The main story is no longer a fictional fintech ecosystem. The main story is a real, sanitized reconciliation automation case study that shows production thinking without exposing sensitive information.
 
 ## Narrative
 
-The portfolio starts with practical analytics work: SQL exploration, data cleaning, visualization, and business analysis. It then moves into the Lexian Engineering Portfolio, a fictional fintech engineering ecosystem focused on transaction processing, operational observability, reconciliation, graph auditability, cloud data workflows, ML foundations, and AI-assisted operations.
+Antonio builds data systems for financial operations: reconciliation pipelines, audit trails, cloud storage patterns, warehouse-ready outputs, and business-facing visibility.
+
+The portfolio should answer three questions fast:
+
+1. What business problem was solved?
+2. What technologies and engineering decisions were used?
+3. What measurable operational impact did it create?
 
 ## Principles
 
-- Be honest about project status.
-- Mark future work as Planned.
-- Keep each major Lexian product in its own repository.
-- Use synthetic data only.
-- Explain business context and engineering tradeoffs.
-- Introduce tools only when the business problem requires them.
-- Prefer small, testable systems over large unfinished scaffolds.
+- Keep the landing README brief.
+- Lead with business impact before tools.
+- Use sanitized mockups instead of private code or real data.
+- Document secrets as secret-managed variables, never values.
+- Explain auditability in plain language.
+- Prefer one strong case study over many unfinished ideas.
 
 ## Review Experience
 
-A recruiter or data lead should be able to understand the portfolio quickly:
+A recruiter or data lead should be able to understand the portfolio in under two minutes:
 
-1. Profile README explains the professional positioning.
-2. Portfolio Hub organizes released milestones, active modules, and next build focus.
-3. Lexian Transaction Engine demonstrates active engineering practice.
-4. Foundation projects show SQL, BI, cleaning, and analytical reasoning.
-5. Planned projects show direction without overstating completion.
+1. The README explains the professional positioning.
+2. The featured project shows measurable impact.
+3. The case study explains architecture, storage, tokens, and audit flow with mock examples.
+4. Older analytics projects remain available as foundations, not as the main story.

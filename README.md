@@ -1,54 +1,40 @@
-# Antonio Guerrero — Data & Analytics Engineering Portfolio
+# Antonio Guerrero — Data & Analytics Engineering
 
-## Overview
+I build data workflows that turn manual financial operations into auditable, reliable, and reviewable systems.
 
-This portfolio presents practical work across analytics foundations, fintech data systems, analytics engineering, reconciliation workflows, auditability, and cloud-oriented data workflows.
+My strongest work sits at the intersection of analytics engineering, Python automation, cloud storage, reconciliation logic, and operational visibility.
 
-The main engineering portfolio is **Lexian**, a fictional fintech data ecosystem built with synthetic data only. Lexian is not a real company and does not contain real customer, employer, Klar internal, or confidential information.
+## Featured Project
 
-## Current Execution Focus
+### Mage Reconciliation Automation
 
-The portfolio is currently focused on building Lexian as a modular fintech data system. Released work covers transaction processing, operational observability, local warehouse foundations, and SQL analytics. Current work is focused on analytics engineering, validation layers, reconciliation controls, break management, audit outputs, and graph-based traceability.
+Production-inspired reconciliation platform designed to reduce daily manual review, preserve historical evidence, and give audit teams a no-code view of transaction status changes.
 
-## Featured Engineering Portfolio
+**Impact**
 
-### Lexian Fintech Data System
+- Reduced daily reconciliation work from about **2 hours to 15 minutes**.
+- Reduced setup time for new reconciliations from about **3 hours to 1 hour**.
+- Created a **100% auditable trail** using versioned outputs, full reconciliation snapshots, and downstream warehouse tables.
+- Moved auditors away from reading code by exposing reconciliation status history through a business-facing frontend.
 
-Lexian is a synthetic fintech data system designed to model how transaction processing, operational observability, analytical warehousing, reconciliation controls, and auditability evolve into a broader data platform.
+**What it demonstrates**
 
-- **Transaction Engine:** released; synthetic transaction ingestion, validation, balance calculation, tests, CI.
-- **Operational Observability:** released; execution tracking, structured logging, lifecycle visibility.
-- **Local Analytical Warehouse:** released; DuckDB schema, raw/fact tables, execution metadata, SQL queryability.
-- **Warehouse Analytics:** released; balance validation, pipeline health, transaction summaries, anomaly checks.
-- **Analytics Engineering Layer:** active; marts, metric definitions, reusable business models, validation layer.
-- **Reconciliation & Break Management:** next; matching logic, reconciliation statuses, breaks, audit outputs.
-- **Graph Auditability:** starting; Neo4j/Cypher model for lineage and investigation.
+- Mage pipelines for repeatable orchestration.
+- Python matching, break classification, validation, and export logic.
+- S3 storage patterns for raw inputs, normalized files, run manifests, and full reconciliation parquet outputs.
+- Redshift-ready audit tables powered by `full_recon` parquet outputs.
+- Secret-managed Grafana and GitHub integrations for alerting, observability, and operational automation.
 
-[Review Lexian Transaction Engine](https://github.com/arza1uz/lexian-transaction-engine)
+[Read the sanitized case study](docs/reconciliation-platform.md)
 
-### Cloud Data Platform
+## Technical Focus
 
-**Status:** Planned  
-**Focus:** cloud-native ingestion, storage, transformation, and warehouse deployment using AWS-oriented patterns.
+- **Data Engineering:** Python, Mage, S3, parquet, Redshift-oriented storage design.
+- **Analytics Engineering:** reconciliation models, status history, validation layers, audit tables.
+- **Operations:** Grafana alerts, GitHub automation, run manifests, rerunnable jobs.
+- **Business Translation:** readable documentation, mockups, and reviewer-friendly workflows.
 
-### ML / Risk Platform
-
-**Status:** TBD  
-**Focus:** risk features, fraud signals, model evaluation, feature pipelines.
-
-### AI Investigation Assistant
-
-**Status:** TBD  
-**Focus:** AI-assisted reconciliation investigation, operational search, RAG, vector search, evaluation.
-
-## Next Build Focus
-
-- **Analytics Engineering Layer:** marts, metric definitions, model documentation.
-- **Validation Layer:** balance checks, data quality rules, reconciliation validation outputs.
-- **Reconciliation Engine:** matching logic, breaks, statuses, audit-ready outputs.
-- **Graph Auditability:** Neo4j/Cypher model for lineage and investigation.
-
-## Analytics Foundations
+## Earlier Analytics Work
 
 | Project | Focus | Link |
 | --- | --- | --- |
@@ -58,7 +44,6 @@ Lexian is a synthetic fintech data system designed to model how transaction proc
 
 ## Connect
 
-- [GitHub Profile](https://github.com/arza1uz)
-- [Lexian Transaction Engine](https://github.com/arza1uz/lexian-transaction-engine)
+- [GitHub](https://github.com/arza1uz)
 - [LinkedIn](https://www.linkedin.com/in/ja-guerrero-arzaluz)
 - [Email](mailto:antonioguerreroarzaluz@gmail.com)

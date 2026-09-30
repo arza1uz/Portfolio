@@ -28,10 +28,11 @@ I build practical data workflows for financial operations, reconciliation, audit
 | Project | Focus | Skills | Link |
 | --- | --- | --- | --- |
 | **Lakehouse Analytics Project** | Next portfolio build: ingestion, transformation, and analytical modeling in a Databricks-style lakehouse workflow. | Databricks, PySpark, Delta Lake, SQL, data modeling | Planned |
+| **PySpark + dbt Transformation Layer** | Planned project for building scalable transformations with PySpark and documenting tested analytics models with dbt-style conventions. | PySpark, dbt, SQL, Delta Lake, data modeling, tests | Planned |
 
 ## Core Skill Set
 
-`Python` · `SQL` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `GitHub Actions` · `Tableau` · `Power BI` · `Databricks` · `PySpark`
+`Python` · `SQL` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `GitHub Actions` · `Tableau` · `Power BI` · `Databricks` · `PySpark` · `dbt`
 
 ## Contact
 

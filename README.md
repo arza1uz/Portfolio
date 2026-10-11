@@ -13,7 +13,7 @@ I build practical data workflows for financial operations, reconciliation, audit
 | Project | Focus | Skills | Link |
 | --- | --- | --- | --- |
 | **Mage Reconciliation Automation** | Automated reconciliation workflow with audit-ready outputs, S3 storage, parquet snapshots, Redshift-ready history, Grafana alerts, and GitHub operational automation. Reduced daily review from **2h to 15m** and new reconciliation setup from **3h to 1h**. | Python, Mage, AWS S3, parquet, Redshift, Grafana, GitHub Actions, auditability | [Case Study](docs/reconciliation-platform.md) |
-| **Correlation Analysis Toolkit** | Planned Python project for exploring relationships between operational metrics, detecting meaningful correlation patterns, and producing concise analytical outputs. | Python, pandas, NumPy, statistics, visualization, data storytelling | Planned |
+| **Movie Revenue Correlation Analysis** | Python analysis exploring which movie features are most associated with gross revenue. The project demonstrates dataframe debugging, numeric correlation, categorical encoding, visual storytelling, and studio-level revenue concentration. | Python, pandas, seaborn, matplotlib, correlation analysis, data storytelling | [Repository](https://github.com/arza1uz/movie-revenue-correlation-analysis) |
 | **Web Scraping Data Pipeline** | Planned Python project for collecting public web data, validating extracted records, storing structured outputs, and documenting ethical scraping boundaries. | Python, requests, BeautifulSoup, pandas, validation, automation | Planned |
 | **Object Detection with TensorFlow** | Planned computer vision project for detecting objects in images, evaluating model performance, and documenting an end-to-end ML workflow. | Python, TensorFlow, computer vision, model evaluation, notebooks | Planned |
 
@@ -51,7 +51,7 @@ I build practical data workflows for financial operations, reconciliation, audit
 
 ## Core Skill Set
 
-`Python` · `SQL` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `GitHub Actions` · `Tableau` · `Power BI` · `Databricks` · `PySpark` · `dbt` · `Snowflake` · `Airflow` · `TensorFlow`
+`Python` · `SQL` · `pandas` · `seaborn` · `Mage` · `AWS S3` · `Redshift` · `parquet` · `Grafana` · `GitHub Actions` · `Tableau` · `Power BI` · `Databricks` · `PySpark` · `dbt` · `Snowflake` · `Airflow` · `TensorFlow`
 
 ## Contact
 

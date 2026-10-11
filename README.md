@@ -2,6 +2,12 @@
 
 I build practical data workflows for financial operations, reconciliation, auditability, and analytics. This portfolio is intentionally brief: each project shows the business focus, the technical skills, and the review link when available.
 
+## Operations Analytics & Reconciliation
+
+| Project | Focus | Skills | Link |
+| --- | --- | --- | --- |
+| **International Fulfillment & Inbound Reconciliation** | End-to-end operations analytics case study evaluating fulfillment SLA performance, warehouse risks, inbound inventory discrepancies, and exception resolution. The project demonstrates how operational data becomes KPIs, investigations, stakeholder communication, and actionable decisions. | Operations Analytics, Reconciliation, SLA Monitoring, Data Quality, Exception Management, Business Intelligence | [Repository](https://github.com/arza1uz/international-fulfillment-operations-analytics) |
+
 ## Python & Data Engineering
 
 | Project | Focus | Skills | Link |
